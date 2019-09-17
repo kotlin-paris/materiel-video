@@ -1,0 +1,32 @@
+= Matériel de capture Vidéo
+
+== Vidéo
+
+* *1 https://www.amazon.fr/dp/B07L6P16H4[Caméscope Canon XA11 avec 2 Batteries]* : capture "raprochée" du speaker.
+* *2 https://www.amazon.fr/dp/B07H9DVLBB[Cartes mémoire SDXC SanDisk Extreme PRO 128 Go]* : enregistrement de la capture vidéo du caméscope.
+* *1 https://www.amazon.fr/dp/B07VFJK8LS[Trépied Neewer]* : trépied pour la XA11 avec niveau à bulle.
+* *2 https://www.amazon.fr/dp/B0745KP298[AVerMedia ExtremeCap UVC]* : boitier de capture HDMI vers USB 3.0.
+* *1 https://www.amazon.fr/dp/B076WWW8ZK[AVerMedia ExtremeCap SDI]* : boitier de capture SDI vers USB 3.0.
+* *1 https://www.amazon.fr/dp/B00F890KXU[AverMedia Game Capture HD 2]* : boîtier d'enregistrement HDMI avec retour. 
+* *1 https://www.amazon.fr/dp/B07C2H1K9R[Blackmagic Design Micro Converter BiDirectional]* : boitier de conversion bi-directionnel HDMI / SDI avec retour.
+
+== Audio
+
+* *1 https://www.amazon.fr/dp/B0037BMDVI[console Soundcraft RW5734]* : console de mixage avec 6 voies Mono & 2 voies Stréo
+* *1 https://www.amazon.fr/dp/B01IMJH9RC[Set micros Saramonic 1 Rx + 2 Tx cravate]* : système de micro cravate sans fil UHF avec récepteur double.
+* *1 https://www.amazon.fr/dp/B01IMJH9RC[Set micros Saramonic 1 Rx + 1 Tx cravate + Tx main]* : système de micro cravate, micros à main sans fil UHF avec récepteur double.
+* *2 https://www.amazon.fr/dp/B00PDYXSQ6:[Fixations de type serre-tête pour micro cravate]* : permet de mettre un micro cravate en micro bouche.
+
+
+== Cablage
+
+=== Vidéo
+
+* *1 HDMI - HDMI* : 1 x 2m
+* *2 mini-HDMI - HDMI* : 2 x 5m
+* *2 SDI - SDI* : 1 x 2m, 1 x 30m
+
+=== Audio
+
+TBD
+
