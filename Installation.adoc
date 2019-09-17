@@ -2,6 +2,8 @@
 
 == Minimale
 
+image::imgs/i_1.png[]
+////
 [graphviz]
 ....
 digraph G {
@@ -28,13 +30,16 @@ digraph G {
     Rx -> XA11 [label = "XLR"]
     XA11 -> ECU1 [label = "HDMI"]
     ECU1 -> Regie [label = "USB 3"]
- }
+}
 ....
+////
 
 
 == Avec retour son
 
-[graphviz]
+image::imgs/i_2.png[]
+////
+ [graphviz]
 ....
 digraph G {
     node [shape = rect fixedsize = true width = 1.6]
@@ -64,12 +69,15 @@ digraph G {
     Rx -> Cs [label = "XLR"]
     Cs -> XA11 [label = "XLR"]
     Speaker -> Cs -> Enceintes [label = "Jack"]
- }
+}
 ....
+////
 
 
 == Complet
 
+image::imgs/i_3.png[]
+////
 [graphviz]
 ....
 digraph G {
@@ -104,6 +112,6 @@ digraph G {
     Rx -> Cs [label = "XLR"]
     Cs -> XA11 [label = "XLR"]
     Speaker -> Cs -> Enceintes [label = "Jack"]
- }
+}
 ....
-
+////
