@@ -3,12 +3,13 @@
 == Vidéo
 
 * *1 https://www.amazon.fr/dp/B07L6P16H4[Caméscope Canon XA11 avec 2 Batteries]* : capture "raprochée" du speaker.
+* *1 https://www.amazon.fr/gp/product/B079ZPY8M8[Caméscope Canon HF G26]* : capture "globale" de la salle.
 * *2 https://www.amazon.fr/dp/B07H9DVLBB[Cartes mémoire SDXC SanDisk Extreme PRO 128 Go]* : enregistrement de la capture vidéo du caméscope.
 * *1 https://www.amazon.fr/dp/B07VFJK8LS[Trépied Neewer]* : trépied pour la XA11 avec niveau à bulle.
 * *2 https://www.amazon.fr/dp/B0745KP298[AVerMedia ExtremeCap UVC]* : boitier de capture HDMI vers USB 3.0.
 * *1 https://www.amazon.fr/dp/B076WWW8ZK[AVerMedia ExtremeCap SDI]* : boitier de capture SDI vers USB 3.0.
 * *1 https://www.amazon.fr/dp/B00F890KXU[AverMedia Game Capture HD 2]* : boîtier d'enregistrement HDMI avec retour. 
-* *1 https://www.amazon.fr/dp/B07C2H1K9R[Blackmagic Design Micro Converter BiDirectional]* : boitier de conversion bi-directionnel HDMI / SDI avec retour.
+* *2 https://www.amazon.fr/dp/B07C2H1K9R[Blackmagic Design Micro Converter BiDirectional]* : boitier de conversion bi-directionnel HDMI / SDI avec retour.
 
 == Audio
 
@@ -28,5 +29,6 @@
 
 === Audio
 
-TBD
-
+* *2 XLR - XLR* : 2 x 30m
+* *1 XLR - Jack 6.35* : 2 x 30m
+* *1 XLR - Jack 3.5* : 2 x 30m
